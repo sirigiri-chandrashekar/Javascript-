@@ -9,11 +9,21 @@ accountEmail= "chanskbe@gmail.com"
 accountpassword="454654"
 accountCity="doodhbowli"
 
-console.log(accountId);
+// console.log(accountId);
 
- /*
- prefer not to use var
- because of issue in block scope and funtional scope
- */
+//  /*
+//  prefer not to use var
+//  because of issue in block scope and funtional scope
+//  */
 
-console.table([accountId,accountEmail,accountpassword,accountCity,accountState]);
+// console.table([accountId,accountEmail,accountpassword,accountCity,accountState]);
+
+if(true){
+    var a=5;
+    let b=8;
+    console.log(a);
+    console.log(b);
+}
+
+console.log(a);
+console.log(b);

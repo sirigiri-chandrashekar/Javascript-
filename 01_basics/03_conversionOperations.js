@@ -6,16 +6,16 @@ AND ABOUT OPERTION "add, sub , divide, multiplication ............"
 
 
 
-let score="55abc"
+// let score="55abc"
 
-//console.log(typeof score);
-//console.log(typeof(score)); //throught this we tried without string //output=number 
+// console.log( score);
+// console.log(typeof(score)); //throught this we tried without string //output=number 
 
-//let valueInNumber= Number(score) //we can convert string in number by using Number in starting. output= number 
+// let valueInNumber= Number(score) //we can convert string in number by using Number in starting. output= number 
 
-//console.log(typeof(valueInNumber));// it has converted in number .!but we dont now the value of it 
+// console.log(typeof(valueInNumber));// it has converted in number .!but we dont now the value of it 
 
-//console.log(valueInNumber) //this leads to NaN because score do not have pure number 
+// console.log(valueInNumber) //this leads to NaN because score do not have pure number 
 
 //"55"=> 55
 //"55abc" => NaN (not a number)
@@ -86,7 +86,7 @@ str3 =str1+str2
 // // Expected output: "x:4, y:3"
 
 // let a = 3;
-// let b = ++a;  //The value of a is initially set to 3. The ++a is a pre-increment operation, which means that the value of a is incremented by 1 before the assignment to b takes place. Therefore, b will be assigned the value of the incremented a.
+// let b = ++a;  //The value of "a" is initially set to 3. The ++a is a pre-increment operation, which means that the value of a is incremented by 1 before the assignment to b takes place. Therefore, b will be assigned the value of the incremented a.
 
 // console.log(`a:${a} , b:${b}`);
 // // Expected output: "a:4, b:4"

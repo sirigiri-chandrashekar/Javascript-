@@ -1,6 +1,6 @@
 "use strict"; //treat all JS code as newer version 
 
-//DATATYPES
+//DATATYPES :-Data types describe the different types or kinds of data that we're gonna be working with and storing in variables.There are few datatypes mention below.
 
 // number = 1,2235,515.22 (highest value of number datatypes is 2 to the power of 53)
 // bigint = this datatype when it exceeds the limit of number dataype .! it is basically used on big flatforms like trading application, facebook ,google etc.
