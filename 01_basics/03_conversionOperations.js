@@ -1,6 +1,6 @@
 /* IN THIS FILE WE LEARNT ABOUT THE CONVERSION OF OPERATION BY USING NAME OF DATA TYPES EG:- Boolean  ;  String  ; Number ; Obejct and so on 
  
-AND ABOUT OPERTION "add, sub , divide, multiplication ............"
+AND ABOUT OPERARTORS "add, sub , divide, multiplication ............"
 
 */
 
